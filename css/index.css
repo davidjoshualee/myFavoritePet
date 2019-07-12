@@ -1,0 +1,56 @@
+body {
+    font-family: Montserrat, Helvetica, Arial;
+}
+}
+nav {
+    height: 50px;
+    background-color: lightgrey;
+}
+section {
+    margin: 0px;
+}
+.inline-block {
+    display: inline-block;
+    padding: 20px;
+    margin: 0px;
+    background-color: rgb(82, 82, 82);
+    font-size: 10pt;
+    color: white;
+}
+
+.left {
+    display: inline-block;
+    width: 29%;
+    height: 800px;
+
+}
+
+.right {
+    display: inline-block;
+    width: 69%;
+    height: 800px;
+    background-color:white;
+}
+
+.bio {
+    display: inline-block;
+    width:100%;
+    height: 300px;
+    background-color: #FFF1D1;
+    text-align: center;
+    color: rgb(90, 90, 90);
+}
+.stats {
+    display: inline-block;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 249, 234)
+}
+
+.bio_img {
+    width: 150px;
+    padding-top: 30px;
+}
+img {
+    width: 400px;
+}
